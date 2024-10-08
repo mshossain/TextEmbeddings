@@ -1,0 +1,11 @@
+The cat sat on the mat.
+The dog lay on the rug.
+The bird flew over the trees.
+The cat chased the bird.
+The dog barked at the cat.
+The bird sang in the tree.
+The mat was next to the rug.
+The dog and the cat slept together on the mat.
+The bird and the dog played near the tree.
+The mat and the rug were dirty.
+The tree was tall and the bird liked to sit on it.
